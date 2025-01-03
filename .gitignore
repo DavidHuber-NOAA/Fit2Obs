@@ -5,5 +5,4 @@
 exec/
 build*/
 install*/
-modulefiles/fit2obs/
 log*
